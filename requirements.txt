@@ -1,0 +1,22 @@
+Create a program that should simulate the basic functionalities of the MOMO API 
+using Object oriented Programming (OOP). 
+
+Your class should have the following attributes
+
+type of account
+account name
+ID Card Number
+account balance
+transactions
+
+
+It should have the following methods: 
+
+deposit
+Withdrawal
+transfer 
+check account balance
+check last transactions
+
+implement the functionalities. let the methods work and simulate a typical MOMO API 
+functionality using your console
